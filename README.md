@@ -1,6 +1,6 @@
 # SharpLigolo-NG
 
-A C# wrapper for https://github.com/nicocha30/ligolo-ng
+A C# wrapper for the [Ligolo-NG](https://github.com/nicocha30/ligolo-ng) agent
 
 Can be built and executed via `execute-assembly`
 
